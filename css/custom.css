@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 5, 2014, 10:34:48 PM
+    Author     : Azizi
+*/
+.navbar-brand-resepi {  
+  float: none !important;
+  height: 20px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+.panel-resepi {
+  border-color: #EED38E;
+}
+.panel-resepi > .panel-heading {
+  color: #000;
+  background-color: #EED38E;
+  border-color: #EED38E;
+}
+.panel-resepi > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #428bca;
+}
+.panel-resepi > .panel-footer + .panel-collapse .panel-body {
+  border-bottom-color: #428bca;
+}
+.panel-title {
+margin-top: 0;
+margin-bottom: 0;
+font-size: 16px;
+font-weight: bold;
+color: #BE1313;
+}
